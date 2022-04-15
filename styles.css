@@ -1,10 +1,9 @@
-body{
+body {
     background-color: black;
 }
 
-    
 .profile-picture {
-    display: block; 
+    display: block;
     margin-left: auto;
     margin-right: auto;
 
@@ -28,7 +27,7 @@ a {
     margin-top: 20px;
     border: 1px solid grey;
     border-width: 2px;
-    
+
     width: 290px;
     display: block;
     margin-left: auto;
@@ -41,6 +40,3 @@ a {
     text-decoration: none;
 
 }
-
-
-

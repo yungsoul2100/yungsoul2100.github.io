@@ -23,9 +23,13 @@ body {
 .profile-name {
     text-align: center;
 
-    padding: 30px;
-    font-size: 28px;
+    padding: 20px;
+    font-size: 34px;
     color: white;
+}
+
+audio {
+    margin-top: 20px;
 }
 
 a {
